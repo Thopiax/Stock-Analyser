@@ -1,3 +1,3 @@
-#Stock-Analyser (2013)
+#Stock-Analyser (2012)
 
 This was my second big personal project. In this project, I used my very rudementary maths skills combined with amateur programming skills to create a script that is able to continuously run, gather and process data from a given website and perform "high-frequency" (every minute or so, due to the websites not rereshing quicker) "trading" (wrote to a text file the buy and sell commands) with that given information. It also allowed the user to control the trading algorithm by manipulating the given parameters in a configuration file (.ini). Although the program had many flaws, it was able to record stock prices for days on end and always made a profit.
